@@ -3,7 +3,7 @@
 
 - 🧑🏻‍💻 Hoje trabalho com Desenvolvimento Web
 - 🌱 Estudando Desenvolvimento WordPress
-- Desenvolvimento não deve ser uma variável, mas sim uma constante..
+- 📖 "Desenvolvimento não deve ser uma variável, mas sim uma constante.."
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerFbBatista)](https://github.com/AbnerFbBatista)

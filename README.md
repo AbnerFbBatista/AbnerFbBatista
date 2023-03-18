@@ -2,7 +2,7 @@
 
 
 - 🧑🏻‍💻 Hoje trabalho com Desenvolvimento Web
-- 🌱 Estudando Desenvolvimento WordPress
+- 🌱 Cursando Desenvolvimento Web WordPress
 - 📖 "Desenvolvimento não deve ser uma variável, mas sim uma constante.."
 
 <div style="display: inline_block"><br>

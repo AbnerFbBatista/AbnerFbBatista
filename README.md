@@ -4,6 +4,7 @@
 - 🧑🏻‍💻 Hoje trabalho com Desenvolvimento Web
 - 🌱 Cursando Desenvolvimento Web WordPress
 - 📖 "Desenvolvimento não deve ser uma variável, mas sim uma constante.."
+- 🎮 Caminhoneiro virtual nas horas vagas 😆
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Abner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -2,7 +2,7 @@
 
 
 - 🧑🏻‍💻 Hoje trabalho com Desenvolvimento Web
-- 🌱 Cursando Desenvolvimento Web WordPress
+- 🌱 Cursando UX/UI Designer na Design Circuit
 - 📖 "Desenvolvimento não deve ser uma variável, mas sim uma constante.."
 - 🎮 Caminhoneiro virtual nas horas vagas 😆
 
